@@ -1,6 +1,6 @@
 # React Drum Machine
 1. A container holding display, settings, and drum elements
-2. Drum elements: a key (Q,W,E etc), a sound file, a name -> Object?
+2. Drum elements: a key (Q,W,E, etc.), a sound file, a name -> Object?
 3. When clicked OR key pressed:
   1. Show animation (babystep: console.log)
   2. Play sound
@@ -20,7 +20,7 @@ Baby steps  //TODO
 - Trigger a sound
 - Add on/off switch
 
-
+?? Do the drumpads need to be functional components? I don't think so as they need to know if they are clicked on.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
