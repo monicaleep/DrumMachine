@@ -1,3 +1,27 @@
+# React Drum Machine
+1. A container holding display, settings, and drum elements
+2. Drum elements: a key (Q,W,E etc), a sound file, a name -> Object?
+3. When clicked OR key pressed:
+  1. Show animation (babystep: console.log)
+  2. Play sound
+  3. Show sound's name in 'display'
+
+State that needs to be handled:
+- On/Off (nothing happens when off)
+- Key played?
+
+Baby steps  //TODO
+- Make basic outline with 9 divs
+- Log a click
+- Log a keypress
+- Add props to the drums to store sounds, name
+- Log which one was clicked, which key was pressed
+- Trigger an animation
+- Trigger a sound
+- Add on/off switch
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
